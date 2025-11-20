@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\Lab10_2\obj\Debug\Lab10_2.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Lab10_2\obj\Debug\Lab10_2.Properties.Resources.resources
+C:\Users\Student\source\repos\Lab10_2\obj\Debug\Lab10_2.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Lab10_2\obj\Debug\Lab10_2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Lab10_2\obj\Debug\Lab10_2.Form1.resources
+C:\Users\Student\source\repos\Lab10_2\bin\Debug\StudentDb.mdf
+C:\Users\Student\source\repos\Lab10_2\bin\Debug\StudentDb_log.ldf
+C:\Users\Student\source\repos\Lab10_2\bin\Debug\Lab10_2.exe.config
+C:\Users\Student\source\repos\Lab10_2\bin\Debug\Lab10_2.exe
+C:\Users\Student\source\repos\Lab10_2\bin\Debug\Lab10_2.pdb
+C:\Users\Student\source\repos\Lab10_2\obj\Debug\Lab10_2.exe
+C:\Users\Student\source\repos\Lab10_2\obj\Debug\Lab10_2.pdb
+C:\Users\Student\source\repos\Lab10_2\obj\Debug\Lab10_2.exe.config
